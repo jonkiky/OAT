@@ -1,0 +1,2357 @@
+project setup.createViewInKF
+thread.init
+project member.initProjectGroup
+thread.showCompiledJotSummary
+project setup.thread_wondering
+project setup.creat_a_public_thread
+project dashboard.getAreaThreadSize
+cross_project_sharing.get_community_info
+project member.add_finish click
+project setup.thread_view
+project dashboard.getSuperTalkJOTBySuperTalkId
+project modify.create-submit click
+project dashboard.wf_finish  click
+project dashboard.initSingleSuperTalk
+thread.removeNote
+project dashboard.wf_finish  click
+project setup.createViewInKF
+project setup.createViewInKF
+project dashboard.callAjaxfunc
+project setup.project_view_add
+activity_rader.get_project_info
+thread.prepare
+project setup.add_project_author
+project dashboard.thread_finish
+activity_rader.get_thread_note_highlight
+project dashboard.get_community_info
+project setup.thread_project
+project dashboard.initWondering_area_in_Add_thread
+project setup.createViewInKF
+activity_rader.initRadar
+project modify.create-submit click
+project setup.thread_project
+project setup.createViewInKF
+project dashboard.threadProject
+thread_import.note_add_keywords
+project setup.create_a_public_wondering_area
+@className.initTable
+project modify.add_project_author
+thread.websocket
+project setup.project_view_add
+project setup.add_project_author
+project dashboard.thread_finish
+project setup.create_a_public_wondering_area
+project setup.creat_a_public_thread
+project dashboard.addWonderingAreaProject
+project modify.updateBuddyProject
+thread.buildon backward
+project member.initProjectUser
+cross_project_sharing.get_community_info
+project modify.initGrades
+project modify.initInput
+thread.websocket_broadcast
+project setup.project_view_add
+project dashboard.checkMyFocus
+thread.saveJot
+thread.initUser
+project dashboard.initSuperTalkList
+project dashboard.callAjaxfunc
+project setup.getCommunityObject
+project dashboard.initSingleSuperTalk
+project setup.creat_a_public_thread
+@className.dashboard.enter()
+project dashboard.thread_finish
+project setup.createViewInKF
+project setup.getCommunityObject
+project setup.project_view_add
+thread.init
+project dashboard.wf_finish  click
+project setup.create_a_public_wondering_area
+@className.initViews
+project setup.add_project_author
+project member.userremove click
+project dashboard.getSuperTalkJOTBySuperTalkId
+cross_project_sharing.get_community_info
+project setup.thread_view
+project dashboard.callAjaxfunc
+thread.initUser
+project setup.project_wondering
+project dashboard.addWonderingAreaProject
+project dashboard.wf_finish  click
+project dashboard.wonderingAreaRestore
+project dashboard.showAreaInfo
+thread.checkHighlight
+thread_import.note_add_keywords
+project dashboard.update
+project modify.add_project_author
+project setup.project_view_add
+@className.dashboard.MyRegistered()
+project dashboard.initSuperTalkList
+project dashboard.callAjaxfunc
+project modify.initInput
+thread.sendMsg
+project member.add_finish click
+project setup.add_project_author
+project dashboard.area_edit_btn click
+project dashboard.getAreaThreadSize
+project setup.add_project_author
+project dashboard.getAreaThreadSize
+project setup.project_view_add
+thread.websocket_broadcast
+thread.jotEdit
+project dashboard.callAjaxfunc
+project modify.create-submit click
+activity_rader.get_thread_note
+project modify.add_project_grade
+thread.initUser
+thread.jotUpdate
+thread_import.getThreadNote
+project setup.thread_view
+thread.showCompiledJotSummary
+project modify.add_project_grade
+project dashboard.checkMyFocus
+project setup.thread_view
+project modify.initInput
+thread_import.getThreadNote
+project modify.create-submit click
+project member.userremove click
+project dashboard.getSuperTalkJOTBySuperTalkId
+project setup.getCommunityObject
+project setup.create_a_public_wondering_area
+project setup.thread_view
+project modify.initArea
+thread.websocket_broadcast
+project setup.thread_view
+project dashboard.getAreaThreadSize
+project dashboard.area_delete_btn click
+project dashboard.area_delete_btn click
+thread.saveJot
+openedit.initPage
+thread.noteRead
+project setup.creat_a_public_thread
+@className.initViews
+activity_rader.get_community_info
+project dashboard.btn_add_reminder click
+project setup.creat_a_public_thread
+project proposal.initSuperTalk
+project setup.project_view_add
+thread.initViews
+project modify.initInput
+thread.showHistory
+thread_import.btn-search click
+thread.checkHighlight
+project dashboard.thread_finish
+thread.createScaffoldStartTag
+project setup.add_project_author
+project setup.thread_project
+project setup.project_wondering
+project setup.thread_wondering
+project dashboard.getAreaThreadSize
+project setup.create_a_public_wondering_area
+project dashboard.showAreaInfo
+thread.jotUpdate
+thread.initJOT
+project setup.creat_a_public_thread
+project dashboard.wf_finish  click
+thread.init
+project setup.project_wondering
+project setup.add_project_author
+project setup.project_view_add
+project setup.project_view_add
+project setup.project_view_add
+project modify.add_project_grade
+project setup.project_view_add
+thread_import.initProjects
+project dashboard.update
+project dashboard.callAjaxfunc
+project modify.updateBuddyProject
+project dashboard.callAjaxfunc
+thread.get_project_info
+project setup.creat_a_public_thread
+thread.jotEdit
+thread.saveJot
+project modify.create-submit click
+project modify.create-submit click
+thread.showCompiledJotSummary
+project setup.project_view_add
+project dashboard.wf_finish  click
+project modify.initFromYear
+project dashboard.deleted_wonderingarea_ideathread_list click
+thread_import.btn-add-thread click
+project dashboard.initWondering_area_in_Add_thread
+cross_project_sharing.get_community_info
+project setup.project_view_add
+thread.websocket_broadcast
+project setup.add_project_author
+project dashboard.thread_finish
+project setup.project_view_add
+thread.nav change
+project setup.thread_view
+project modify.add_project_grade
+project dashboard.area_edit_btn click
+project dashboard.idea_thread_list click
+project setup.thread_wondering
+project setup.project_view_add
+project modify.initInput
+project setup.add_project_author
+project dashboard.checkMyFocus
+project dashboard.getAreaThreadSize
+project dashboard.getAreaThreadSize
+project setup.project_view_add
+project dashboard.add_wf_click
+thread.openByIFrame
+project dashboard.showAreaInfo
+project setup.project_view_add
+project setup.project_view_add
+project setup.project_view_add
+thread.init
+project setup.project_view_add
+thread.websocket_broadcast
+project setup.project_view_add
+project setup.project_view_add
+project setup.add_project_grade
+thread.saveJot
+project modify.updateBuddyProject
+thread.initUser
+project setup.thread_view
+project dashboard.callAjaxfunc
+project dashboard.checkMyFocus
+thread.prepare
+thread.initJOT
+project modify.updateBuddyProject
+project setup.thread_view
+project dashboard.add_wf_click
+project dashboard.getAreaThreadSize
+activity_rader.intiActivityRadar
+project setup.add_project_author
+project setup.project_view_add
+project setup.create_a_public_wondering_area
+thread_import.btn-search click
+thread.showCompiledJotSummary
+@className.dashboard.get_Communities()
+thread.search autocomplete
+thread.showScaffolds
+project setup.project_view_add
+thread.jotUpdate
+project setup.project_view_add
+project dashboard.addWonderingAreaProject
+project setup.add_project_author
+project setup.project_view_add
+project setup.project_wondering
+thread.get_project_info
+thread.websocket
+project setup.thread_view
+project dashboard.callAjaxfunc
+project dashboard.area_edit_btn click
+project modify.add_project_grade
+project proposal.initWonderingArea
+thread.showCompiledJotSummary
+project setup.createViewInKF
+project setup.project_wondering
+project dashboard.mapping_finish click
+project setup.project_view_add
+activity_rader.intiActivityRadar
+project setup.thread_project
+project dashboard.add_wf_click
+project setup.thread_wondering
+project setup.createViewInKF
+project setup.project_view_add
+project setup.thread_wondering
+project dashboard.callAjaxfunc
+project dashboard.wf_finish  click
+project setup.project_view_add
+project dashboard.showAreaInfo
+project dashboard.get_project_info
+project dashboard.showAreaInfo
+project setup.createViewInKF
+project setup.project_wondering
+project setup.createViewInKF
+thread.showCompiledJotSummary
+project modify.create-submit click
+thread.get_project_info
+project setup.project_view_add
+project setup.thread_view
+project dashboard.getAreaThreadSize
+project setup.createProjectInITM3
+project modify.add_project_author
+project dashboard.callAjaxfunc
+project setup.thread_view
+project dashboard.getAreaThreadSize
+project setup.project_wondering
+project dashboard.get_project_info
+project dashboard.get_community_info
+cross_project_sharing.initProject
+project setup.thread_wondering
+thread.showCompiledJotSummary
+project dashboard.getAreaThreadSize
+project modify.create-submit click
+project setup.getCommunityObject
+project dashboard.threadProject
+project dashboard.threadProject
+thread_import.initViews
+project setup.createViewInKF
+thread.sendMsg
+thread.createLink
+thread.init
+thread.saveJot
+project dashboard.checkMyFocus
+project setup.create_a_public_wondering_area
+project dashboard.showAreaInfo
+thread.prepareNotes
+project setup.thread_view
+project setup.project_view_add
+project setup.thread_view
+project modify.updateBuddyProject
+project modify.add_project_grade
+project dashboard.initSingleSuperTalk
+thread.initNavBar
+project dashboard.thread_finish
+project setup.thread_project
+project dashboard.getAreaThreadSize
+project modify.add_project_curriculum
+thread.initNavBar
+project setup.project_view_add
+project dashboard.callAjaxfunc
+project setup.createViewInKF
+project setup.create_a_public_wondering_area
+project setup.add_project_curriculum
+project dashboard.initSingleSuperTalk
+@className.dashboard.enter()
+cross_project_sharing.initUser
+project setup.creat_a_public_thread
+project setup.creat_a_public_thread
+project dashboard.getAreaThreadSize
+thread.showCompiledJotSummary
+project setup.thread_wondering
+project setup.project_view_add
+project dashboard.wf_finish  click
+thread.noteRead
+project dashboard.initSuperTalkList
+project setup.project_view_add
+project setup.creat_a_public_thread
+project setup.create_a_public_wondering_area
+thread.show_author_title
+project dashboard.getSuperTalkJOTBySuperTalkId
+project setup.add_project_curriculum
+project setup.project_view_add
+project setup.thread_project
+thread_import.initProjects
+project setup.creat_a_public_thread
+thread.understand_text_area_button click
+thread.init
+project setup.project_view_add
+project setup.creat_a_public_thread
+project dashboard.initSingleSuperTalk
+project dashboard.getAreaThreadSize
+project setup.creat_a_public_thread
+project dashboard.update
+project modify.create-submit click
+project setup.add_project_author
+project dashboard.get_community_info
+project setup.thread_view
+project setup.thread_view
+project setup.thread_wondering
+project dashboard.wf_finish  click
+project dashboard.wf_finish  click
+project dashboard.wonderingAreaRestore
+project dashboard.getAreaThreadSize
+thread.showCompiledJotSummary
+thread.delNote
+project setup.getCommunityObject
+project setup.getCommunityObject
+project dashboard.wf_finish  click
+project setup.thread_view
+project setup.project_view_add
+thread.init
+project dashboard.checkMyFocus
+project setup.creat_a_public_thread
+project setup.project_view_add
+@className.dashboard.get_Communities()
+project setup.create_a_public_wondering_area
+project dashboard.get_project_info
+thread.initUser
+thread.jotUpdate
+project setup.add_project_author
+project dashboard.update
+project modify.add_project_curriculum
+project setup.project_wondering
+project modify.create-submit click
+project dashboard.getAreaThreadSize
+project dashboard.add_wf_click
+project setup.thread_view
+project setup.thread_view
+project setup.creat_a_public_thread
+project setup.create_a_public_wondering_area
+project setup.create_a_public_wondering_area
+project modify.add_project_curriculum
+project dashboard.initSuperTalkList
+project dashboard.generateColorWheel
+project dashboard.getAreaThreadSize
+project setup.thread_wondering
+project dashboard.getAreaThreadSize
+thread_import.note_add_keywords
+project dashboard.getAreaThreadSize
+project dashboard.callAjaxfunc
+thread.websocket_broadcast
+project setup.thread_wondering
+project setup.add_project_curriculum
+project dashboard.initThread
+thread.noteRead
+project setup.thread_view
+@className.dashboard.enter()
+project dashboard.getAreaThreadSize
+project setup.project_view_add
+project dashboard.update
+thread.copy-action
+thread.removeNote
+project dashboard.callAjaxfunc
+project dashboard.addMyFocus
+project modify.create-submit click
+project dashboard.callAjaxfunc
+project setup.thread_project
+project proposal.initSuperTalk
+project setup.add_project_curriculum
+project setup.creat_a_public_thread
+project dashboard.get_project_info
+project dashboard.thread_finish
+thread.jotUpdate
+project modify.initToYear
+project setup.initArea
+project setup.project_view_add
+project setup.thread_view
+project modify.updateBuddyProject
+activity_rader.initWRadar
+thread.noteRead
+cross_project_sharing.drawVisualization
+project setup.add_project_curriculum
+project dashboard.getAreaThreadSize
+project setup.creat_a_public_thread
+project dashboard.callAjaxfunc
+cross_project_sharing.getDataForVisualization
+project setup.project_view_add
+project dashboard.callAjaxfunc
+project setup.createProjectInITM3
+activity_rader.get_thread_note_highlight
+project dashboard.showAreaInfo
+project setup.thread_view
+project setup.project_wondering
+project modify.initInput
+project setup.create_a_public_wondering_area
+project setup.getCommunityObject
+project dashboard.getSuperTalkJOTBySuperTalkId
+@className.dashboard.MyRegistered()
+project modify.create-submit click
+project setup.createViewInKF
+project modify.create-submit click
+project setup.project_view_add
+project setup.project_wondering
+project member.initProjectUser
+thread_import.btn-search click
+project setup.add_project_curriculum
+project setup.createViewInKF
+thread_import.getThreadNote
+thread.initUser
+project dashboard.getAreaThreadSize
+project setup.add_project_author
+project setup.project_view_add
+project setup.project_view_add
+project dashboard.get_project_info
+project dashboard.wf_finish  click
+project setup.thread_project
+project setup.thread_project
+project setup.thread_view
+project dashboard.getAreaThreadSize
+project modify.create-submit click
+project setup.creat_a_public_thread
+cross_project_sharing.enterProject
+project modify.add_project_grade
+project dashboard.initTeacherReminder
+project setup.createViewInKF
+project proposal.declineWA
+project dashboard.wf_finish  click
+project setup.thread_view
+project modify.create-submit click
+project dashboard.initBuddyProject
+activity_rader.get_community_info
+cross_project_sharing.init
+project setup.thread_view
+project setup.project_view_add
+project setup.createViewInKF
+project setup.thread_project
+project dashboard.callAjaxfunc
+thread.showHistory
+thread.prepare
+project dashboard.getAreaThreadSize
+project setup.createViewInKF
+thread.prepare
+project setup.create_a_public_wondering_area
+thread_import.getThreadNote
+project dashboard.area_edit_btn click
+project dashboard.wf_finish  click
+project setup.thread_view
+project modify.create-submit click
+thread.sendMsg
+project setup.create_a_public_wondering_area
+project dashboard.callAjaxfunc
+thread.showCompiledJotSummary
+thread.showtitle click
+thread.init
+thread.websocket_broadcast
+thread.copy-action
+project member.initProjectGroup
+thread.saveJot
+@className.select_views
+thread.initUser
+project dashboard.getSuperTalkJOTBySuperTalkId
+project dashboard.initBuddyProject
+project setup.project_wondering
+thread.init
+thread.compile_list_sort_Title click
+project dashboard.initTeacherReminder
+project dashboard.initBuddyProject
+thread.save-jot-btn
+project setup.project_wondering
+project dashboard.initBuddyProject
+project setup.project_wondering
+thread.jotUpdate
+project modify.create-submit click
+thread.initJOT
+project modify.create-submit click
+project setup.creat_a_public_thread
+project setup.createViewInKF
+project member.add_finish click
+project dashboard.wf_finish  click
+project setup.project_view_add
+project setup.project_view_add
+activity_rader.get_user_note
+thread.websocket
+project dashboard.wf_finish  click
+thread.btn-edit-notes
+project modify.initInput
+project setup.add_project_author
+project dashboard.getAreaThreadSize
+project modify.add_project_curriculum
+thread.initNavBar
+project member.userremove click
+project dashboard.getAreaThreadSize
+project setup.thread_project
+thread.initUser
+project modify.add_project_curriculum
+project modify.updateBuddyProject
+project dashboard.get_project_info
+thread.compile_list_sort_Title click
+project dashboard.getSuperTalkJOTBySuperTalkId
+project setup.thread_project
+project modify.initInput
+project dashboard.getSuperTalkJOTBySuperTalkId
+project dashboard.showAreaInfo
+project dashboard.showAreaInfo
+thread_import.initTable
+project setup.creat_a_public_thread
+project dashboard.getAreaThreadSize
+project setup.thread_wondering
+project dashboard.addThreadView
+project setup.initGrades
+project modify.initToYear
+project setup.project_view_add
+activity_rader.getJOTByProjectId
+project setup.thread_view
+project setup.createViewInKF
+thread.initUser
+thread.saveJot
+project dashboard.callAjaxfunc
+project modify.initInput
+thread.checkHighlight
+project dashboard.wondering_area_list click
+project setup.project_view_add
+project setup.project_view_add
+project dashboard.addThreadView
+project dashboard.getAreaThreadSize
+project setup.project_view_add
+project setup.add_project_grade
+project dashboard.wf_finish  click
+project setup.project_view_add
+project dashboard.threadProject
+project setup.project_view_add
+@className.dashboard.MyRegistered()
+project modify.create-submit click
+project setup.thread_view
+project setup.project_view_add
+project dashboard.get_project_info
+project setup.getCommunityObject
+project dashboard.addMyFocus
+project setup.creat_a_public_thread
+activity_rader.get_wondering_area_thread
+thread.jotUpdate
+project modify.add_project_curriculum
+project dashboard.initWondering_area
+project proposal.acceptWA
+thread.init
+project setup.project_view_add
+project modify.create-submit click
+activity_rader.intiActivityRadar
+project dashboard.getAreaThreadSize
+thread_import.initUser
+thread.checkHighlight
+project modify.add_project_author
+project dashboard.getAreaThreadSize
+thread.initJOT
+project setup.creat_a_public_thread
+project dashboard.addWonderingAreaProject
+project setup.create_a_public_wondering_area
+thread_import.btn-search click
+project dashboard.addThreadView
+project modify.add_project_grade
+thread.jotEdit
+project setup.project_view_add
+project dashboard.checkMyFocus
+thread.initJOT
+thread.websocket_broadcast
+project setup.thread_project
+project dashboard.callAjaxfunc
+project setup.add_project_author
+project dashboard.callAjaxfunc
+project dashboard.initBuddyProject
+project modify.add_project_author
+project modify.create-submit click
+project dashboard.initSingleSuperTalk
+project dashboard.getAreaThreadSize
+thread.jotUpdate
+thread.saveJot
+project setup.thread_wondering
+project setup.project_view_add
+thread_import.initViews
+project setup.creat_a_public_thread
+project setup.getCommunityObject
+project setup.thread_wondering
+project setup.thread_view
+thread.search-btn
+project dashboard.getAreaThreadSize
+project dashboard.showAreaInfo
+thread.compile_list_sort_Highlight click
+project dashboard.update
+project setup.thread_wondering
+thread.show_note_write
+thread.noteRead
+project setup.project_wondering
+project dashboard.showAreaInfo
+thread_import.btn-add-thread click
+project setup.add_project_author
+project setup.createViewInKF
+thread.showHistory
+project modify.add_project_grade
+project dashboard.threadProject
+project setup.getCommunityObject
+project setup.add_project_author
+project dashboard.showAreaInfo
+thread.init
+project dashboard.update
+project setup.project_view_add
+project modify.add_project_grade
+project setup.thread_view
+thread.init
+project modify.add_project_grade
+project dashboard.area_delete_btn click
+project setup.thread_wondering
+project dashboard.btn_add_reminder click
+thread.saveJot
+project setup.thread_wondering
+project setup.project_view_add
+project dashboard.checkMyFocus
+project setup.thread_view
+project setup.project_view_add
+cross_project_sharing.drawVisualization
+project dashboard.area_edit_btn click
+project dashboard.initBuddyProject
+project dashboard.getSuperTalkJOTBySuperTalkId
+project setup.creat_a_public_thread
+thread.copyNote
+project dashboard.getAreaThreadSize
+project dashboard.initBuddyProject
+@className.dashboard.enter()
+project member.initProjectUser
+project proposal.initInvitation
+thread.show_note_write
+project member.add_finish click
+activity_rader.get_project_info
+activity_rader.get_user_note
+project dashboard.checkMyFocus
+project dashboard.wondering_area_list click
+project setup.creat_a_public_thread
+project setup.thread_view
+project modify.add_project_grade
+project dashboard.initSingleSuperTalk
+project setup.add_project_author
+thread_import.btn-search click
+thread.initJOT
+thread.delNote
+project dashboard.addThreadView
+thread.get_project_info
+project dashboard.thread_finish
+project setup.createViewInKF
+project dashboard.callAjaxfunc
+project modify.initFromYear
+project dashboard.btn_add_reminder click
+project dashboard.color_label_finish  click
+thread.show_buildon
+project setup.thread_view
+thread.save-jot-btn
+project setup.project_view_add
+project setup.thread_view
+project setup.add_project_author
+project dashboard.getSuperTalkJOTBySuperTalkId
+thread.showCompiledJotSummary
+project modify.initInput
+project dashboard.initBuddyProject
+project dashboard.update
+@className.select_views
+thread.initJOT
+project dashboard.area_edit_btn click
+project dashboard.addMyFocus
+thread.get_community_info
+project setup.thread_view
+thread.close btn click
+project setup.thread_project
+project modify.initToYear
+project dashboard.update
+project dashboard.update
+@className.select_views
+project setup.project_wondering
+project modify.create-submit click
+thread_import.initViews
+project setup.createViewInKF
+project dashboard.threadProject
+project setup.thread_view
+project setup.add_project_author
+project dashboard.wf_finish  click
+project dashboard.idea_thread_list click
+project setup.project_view_add
+project modify.add_project_curriculum
+project setup.create_a_public_wondering_area
+project dashboard.area_edit_btn click
+project dashboard.callAjaxfunc
+project dashboard.getAreaThreadSize
+thread.saveJot
+project dashboard.threadProject
+project dashboard.callAjaxfunc
+thread.delNote
+project dashboard.wf_finish  click
+@className.dashboard.get_Communities()
+project setup.thread_wondering
+@className.dashboard.page.Init()
+project setup.create_a_public_wondering_area
+project setup.createViewInKF
+cross_project_sharing.update
+project setup.project_view_add
+project modify.create-submit click
+project modify.add_project_curriculum
+thread_import.btn-search click
+project dashboard.initSuperTalkList
+project setup.add_project_author
+project setup.project_wondering
+project dashboard.addWonderingAreaProject
+project setup.project_view_add
+project modify.updateBuddyProject
+project member.add_finish click
+project setup.thread_view
+thread.noteRead
+thread.saveJot
+thread.showCompiledJotSummary
+project dashboard.showAreaInfo
+project dashboard.get_project_info
+thread_import.initUser
+thread.initNavBar
+project dashboard.callAjaxfunc
+project dashboard.showAreaInfo
+project setup.project_wondering
+activity_rader.initRadar
+project dashboard.addThreadView
+project setup.createViewInKF
+thread.btn-edit-notes
+thread.jotUpdate
+project setup.project_view_add
+project setup.add_project_author
+thread.saveJot
+project setup.createViewInKF
+project setup.thread_view
+project dashboard.idea_thread_list click
+thread.jotUpdate
+project setup.thread_view
+project modify.add_project_grade
+project dashboard.checkMyFocus
+thread.jotEdit
+project setup.creat_a_public_thread
+thread.jotUpdate
+project setup.create_a_public_wondering_area
+project setup.thread_project
+project member.userremove click
+project dashboard.initBuddyProject
+project modify.create-submit click
+thread_import.btn-search click
+project modify.add_project_grade
+project modify.create-submit click
+project dashboard.callAjaxfunc
+project dashboard.get_project_info
+project setup.create_a_public_wondering_area
+project modify.create-submit click
+project dashboard.getSuperTalkJOTBySuperTalkId
+project dashboard.initThread
+project dashboard.callAjaxfunc
+project setup.project_view_add
+project setup.thread_view
+project setup.thread_wondering
+project setup.project_view_add
+project dashboard.showAreaInfo
+project modify.initInput
+thread.timeorder click
+@className.initViews
+project dashboard.get_community_info
+thread.sendMsg
+thread.save-jot-btn
+thread.search-btn
+project dashboard.addThreadView
+project setup.creat_a_public_thread
+thread.initJOT
+project dashboard.callAjaxfunc
+project dashboard.initBuddyProject
+thread.prepare
+project setup.creat_a_public_thread
+project proposal.initInvitation
+project dashboard.addWonderingAreaProject
+project setup.thread_project
+@className.dashboard.get_Communities()
+project modify.create-submit click
+project dashboard.getAreaThreadSize
+thread.initJOT
+project dashboard.checkMyFocus
+thread.noteRead
+project dashboard.btn_add_reminder click
+project modify.initFromYear
+project dashboard.callAjaxfunc
+project dashboard.getAreaThreadSize
+activity_rader.get_buildon
+project dashboard.getAreaThreadSize
+thread.prepare
+project setup.thread_view
+project setup.creat_a_public_thread
+project dashboard.callAjaxfunc
+project dashboard.addWonderingAreaProject
+activity_rader.enterProject
+project dashboard.getAreaThreadSize
+project dashboard.callAjaxfunc
+project setup.project_view_add
+project modify.create-submit click
+activity_rader.initWRadar
+project dashboard.thread_finish
+project setup.createViewInKF
+thread.showScaffolds clicik
+activity_rader.get_wondering_area_thread
+thread.noteRead
+project modify.create-submit click
+project setup.creat_a_public_thread
+thread.search-btn
+project modify.create-submit click
+project dashboard.getSuperTalkJOTBySuperTalkId
+project setup.createViewInKF
+project setup.createViewInKF
+project setup.project_wondering
+project modify.initInput
+project proposal.acceptWA
+project setup.createViewInKF
+project dashboard.thread_finish
+project dashboard.getSuperTalkJOTBySuperTalkId
+project setup.createViewInKF
+project dashboard.addWonderingAreaProject
+project setup.creat_a_public_thread
+project dashboard.addWonderingAreaProject
+thread_import.note_add_keywords
+project dashboard.callAjaxfunc
+project modify.create-submit click
+project modify.add_project_curriculum
+project setup.create_a_public_wondering_area
+project proposal.initInvitation
+@className.dashboard.get_Communities()
+project dashboard.wf_finish  click
+project dashboard.initWondering_area_in_Add_thread
+project setup.creat_a_public_thread
+project setup.thread_view
+@className.dashboard.get_Communities()
+thread.websocket_broadcast
+project setup.project_view_add
+project member.initUsers
+project dashboard.showAreaInfo
+project dashboard.addThreadView
+project member.initUsers
+thread.saveJot
+thread.storeHighlightedContent
+thread.websocket_broadcast
+project setup.project_view_add
+cross_project_sharing.enterProject
+project setup.thread_view
+project setup.thread_wondering
+project dashboard.btn_add_reminder click
+thread.websocket_broadcast
+project setup.project_view_add
+thread.init
+project modify.create-submit click
+project modify.updateBuddyProject
+project dashboard.checkMyFocus
+activity_rader.get_community_info
+thread.showKFWriteNote
+project dashboard.getAreaThreadSize
+project setup.project_view_add
+project setup.project_view_add
+project dashboard.thread_finish
+project modify.updateBuddyProject
+project dashboard.getAreaThreadSize
+thread.understand_text_area_button click
+thread.sendMsg
+project setup.creat_a_public_thread
+project dashboard.update
+project setup.project_view_add
+project dashboard.getAreaThreadSize
+project setup.creat_a_public_thread
+thread.websocket
+project dashboard.wf_finish  click
+project proposal.declineWA
+project modify.create-submit click
+project modify.create-submit click
+project dashboard.thread_finish
+project setup.createViewInKF
+project dashboard.callAjaxfunc
+project dashboard.area_edit_btn click
+project dashboard.addMyFocus
+project dashboard.area_edit_btn click
+project dashboard.checkMyFocus
+project setup.getCommunityObject
+project modify.updateBuddyProject
+project setup.thread_wondering
+cross_project_sharing.drawVisualization
+project dashboard.addMyFocus
+@className.dashboard.get_Communities()
+project dashboard.getAreaThreadSize
+project dashboard.getAreaThreadSize
+project dashboard.get_project_info
+project setup.thread_project
+project dashboard.area_edit_btn click
+project setup.thread_view
+project dashboard.wf_finish  click
+project setup.project_view_add
+thread.websocket_broadcast
+project dashboard.showAreaInfo
+thread.showCompiledJotSummary
+project setup.getCommunityObject
+thread.showHistory
+project dashboard.showAreaInfo
+project modify.add_project_author
+project setup.project_wondering
+project dashboard.initThread
+project dashboard.wf_finish  click
+project dashboard.initSuperTalkList
+project dashboard.initSuperTalkList
+thread_import.btn-search click
+project setup.create_a_public_wondering_area
+thread_import.btn-search click
+project dashboard.showAreaInfo
+project modify.create-submit click
+project setup.project_view_add
+project dashboard.area_edit_btn click
+project setup.add_project_author
+project setup.thread_view
+project setup.thread_view
+project dashboard.checkMyFocus
+project proposal.superTalkStatus
+thread.nav change
+activity_rader.get_wondering_area_thread
+activity_rader.get_wondering_area_thread
+thread.compileGraph click
+thread.init
+thread.get_project_info
+project dashboard.getAreaThreadSize
+project setup.project_wondering
+thread.btn-edit-notes
+project dashboard.wf_finish  click
+thread.saveJot
+cross_project_sharing.toggleVisualization
+thread.showHistory
+project setup.thread_wondering
+project dashboard.get_project_info
+project setup.creat_a_public_thread
+project member.add_finish click
+thread.jotUpdate
+thread.showCompiledJotSummary
+project setup.project_view_add
+activity_rader.get_wondering_area_thread
+project setup.creat_a_public_thread
+project setup.project_view_add
+project dashboard.getAreaThreadSize
+project setup.add_project_grade
+project setup.create_a_public_wondering_area
+project setup.thread_view
+project dashboard.initTeacherReminder
+project dashboard.callAjaxfunc
+thread.initUser
+thread.websocket_broadcast
+project modify.add_project_grade
+project setup.project_view_add
+project dashboard.callAjaxfunc
+project modify.initInput
+project setup.thread_wondering
+project dashboard.checkMyFocus
+project dashboard.color_label_finish  click
+project dashboard.initBuddyProject
+project modify.updateBuddyProject
+project setup.thread_wondering
+project dashboard.callAjaxfunc
+thread.init
+project setup.project_view_add
+project setup.createViewInKF
+project setup.project_view_add
+project dashboard.callAjaxfunc
+thread.websocket
+project setup.thread_wondering
+project setup.add_project_author
+project dashboard.callAjaxfunc
+thread.initUser
+project setup.project_wondering
+project dashboard.initSingleSuperTalk
+project dashboard.wf_finish  click
+project dashboard.showAreaInfo
+project dashboard.initSuperTalkList
+project dashboard.thread_finish
+project modify.add_project_grade
+project setup.thread_view
+project setup.create_a_public_wondering_area
+project setup.add_project_author
+project modify.add_project_grade
+project modify.create-submit click
+project setup.project_view_add
+project setup.thread_view
+project setup.thread_wondering
+project modify.initToYear
+project modify.updateBuddyProject
+project setup.creat_a_public_thread
+project dashboard.showAreaInfo
+project setup.project_wondering
+project setup.project_view_add
+activity_rader.initRadar
+project setup.createViewInKF
+project dashboard.callAjaxfunc
+thread.websocket_broadcast
+project dashboard.checkMyFocus
+project setup.project_view_add
+@className.dashboard.get_Communities()
+project setup.thread_wondering
+@className.select_views
+project setup.creat_a_public_thread
+project setup.project_view_add
+project dashboard.wf_finish  click
+activity_rader.get_thread_note_highlight
+thread_import.initUser
+cross_project_sharing.initProject
+project setup.project_view_add
+thread_import.btn-search click
+project setup.creat_a_public_thread
+project dashboard.addWonderingAreaProject
+project dashboard.wf_finish  click
+project setup.createViewInKF
+project dashboard.wondering_area_list click
+project modify.add_project_author
+project dashboard.addWonderingAreaProject
+project setup.project_view_add
+project setup.add_project_author
+project setup.creat_a_public_thread
+thread.addViewNote
+project dashboard.getAreaThreadSize
+thread.sendMsg
+project setup.project_view_add
+project dashboard.callAjaxfunc
+project setup.createViewInKF
+thread.addThreadNote
+project dashboard.getAreaThreadSize
+project dashboard.showAreaInfo
+project dashboard.get_community_info
+cross_project_sharing.get_community_info
+project modify.initFromMonth
+project setup.add_project_author
+thread.showCompiledJotSummary
+project setup.thread_view
+project setup.project_wondering
+project modify.create-submit click
+project dashboard.wf_finish  click
+thread_import.btn-search click
+thread.initJOT
+project setup.creat_a_public_thread
+project setup.project_wondering
+project setup.project_view_add
+project modify.add_project_grade
+project modify.initFromMonth
+project setup.creat_a_public_thread
+project setup.thread_wondering
+project setup.creat_a_public_thread
+project setup.thread_project
+project dashboard.get_project_info
+project setup.project_view_add
+@className.dashboard.get_Communities()
+thread.websocket_broadcast
+project setup.creat_a_public_thread
+project dashboard.callAjaxfunc
+thread.init
+activity_rader.intiActivityRadar
+project modify.updateBuddyProject
+project dashboard.getAreaThreadSize
+activity_rader.get_project_info
+project dashboard.checkMyFocus
+project dashboard.getAreaThreadSize
+thread.show_note_write
+thread.saveJot
+project setup.createViewInKF
+thread.init
+project dashboard.initThread
+thread.initUser
+project setup.thread_wondering
+project setup.createViewInKF
+project dashboard.getAreaThreadSize
+project modify.add_project_curriculum
+project dashboard.addThreadView
+project setup.createViewInKF
+project setup.add_project_grade
+project setup.thread_view
+thread.noteRead
+project setup.thread_wondering
+project setup.project_view_add
+thread.addThreadView
+project setup.project_view_add
+project proposal.superTalkStatus
+project proposal.superTalkStatus
+project dashboard.initWondering_area
+project setup.project_view_add
+project dashboard.getSuperTalkJOTBySuperTalkId
+project dashboard.callAjaxfunc
+project setup.createViewInKF
+thread.websocket_broadcast
+thread.get_project_info
+project setup.project_view_add
+project dashboard.btn_add_reminder click
+thread.save-jot-btn
+thread.websocket
+project setup.thread_view
+project setup.project_view_add
+thread.jotUpdate
+project dashboard.addWonderingAreaProject
+project dashboard.checkMyFocus
+project setup.create_a_public_wondering_area
+project dashboard.update
+activity_rader.get_wondering_area_thread
+thread.addViewNote
+project setup.thread_view
+project setup.creat_a_public_thread
+thread.compile_list_sort_author click
+thread.storeHighlightedContent
+project setup.create_a_public_wondering_area
+thread.compile_list_sort_Highlight click
+project setup.thread_project
+project modify.add_project_author
+project modify.updateBuddyProject
+project dashboard.getSuperTalkJOTBySuperTalkId
+project modify.updateBuddyProject
+project setup.creat_a_public_thread
+project setup.project_view_add
+project setup.project_view_add
+project modify.create-submit click
+project dashboard.getSuperTalkJOTBySuperTalkId
+project dashboard.wf_finish  click
+project setup.project_wondering
+project dashboard.area_delete_btn click
+project setup.thread_view
+thread_import.btn-search click
+project dashboard.thread_finish
+project dashboard.area_edit_btn click
+project setup.project_view_add
+project dashboard.callAjaxfunc
+activity_rader.get_thread_note
+thread.init
+project dashboard.getAreaThreadSize
+project dashboard.area_edit_btn click
+project setup.thread_project
+project setup.project_view_add
+thread.compileHighlight click
+project dashboard.btn_add_reminder click
+project dashboard.callAjaxfunc
+project modify.add_project_author
+project dashboard.getAreaThreadSize
+thread.websocket
+project setup.project_view_add
+project dashboard.get_project_info
+project setup.creat_a_public_thread
+project dashboard.getAreaThreadSize
+project dashboard.callAjaxfunc
+project setup.creat_a_public_thread
+project setup.add_project_grade
+project dashboard.initWondering_area
+activity_rader.initRadar
+thread.initJOT
+project dashboard.initSuperTalkList
+project setup.create_a_public_wondering_area
+project setup.create_a_public_wondering_area
+project member.userremove click
+project setup.thread_view
+thread.jotUpdate
+thread.saveJot
+project dashboard.getAreaThreadSize
+project setup.create_a_public_wondering_area
+project dashboard.addWonderingAreaProject
+project dashboard.showAreaInfo
+thread.compile_list_sort_author click
+thread.show_author_title
+thread_import.btn-search click
+project proposal.acceptWA
+thread.openByIFrame
+thread.init
+project dashboard.btn_add_reminder click
+project setup.creat_a_public_thread
+project setup.create_a_public_wondering_area
+project modify.initToYear
+project modify.initArea
+project dashboard.addThreadView
+activity_rader.get_thread_note_highlight
+project setup.creat_a_public_thread
+thread.noteRead
+thread.save-jot-btn
+project setup.add_project_author
+project dashboard.getAreaThreadSize
+project dashboard.showAreaInfo
+project dashboard.get_project_info
+project modify.updateBuddyProject
+project setup.thread_project
+project modify.initInput
+thread.sendMsg
+project setup.createViewInKF
+project dashboard.wf_finish  click
+project setup.project_view_add
+project setup.project_view_add
+cross_project_sharing.toggleVisualization
+thread.save-jot-btn
+project setup.thread_wondering
+cross_project_sharing.drawVisualization
+project modify.updateBuddyProject
+thread_import.initTable
+project dashboard.getAreaThreadSize
+project dashboard.get_project_info
+project setup.project_view_add
+project modify.add_project_author
+activity_rader.get_buildon
+project dashboard.thread_finish
+project dashboard.idea_thread_list click
+thread.websocket_broadcast
+cross_project_sharing.update
+cross_project_sharing.getDataForVisualization
+project dashboard.update
+activity_rader.get_buildon
+thread.saveJot
+thread.saveJot
+project setup.thread_project
+project member.initGroup
+@className.dashboard.get_Communities()
+project dashboard.callAjaxfunc
+project dashboard.initTeacherReminder
+thread.showCompiledJotSummary
+project setup.thread_view
+project setup.project_wondering
+thread.jotUpdate
+thread.websocket
+project dashboard.callAjaxfunc
+project setup.creat_a_public_thread
+project modify.create-submit click
+cross_project_sharing.enterProject
+project setup.project_view_add
+project setup.add_project_author
+thread_import.initUser
+project dashboard.initTeacherReminder
+project setup.thread_view
+project dashboard.callAjaxfunc
+project dashboard.wf_finish  click
+project dashboard.getAreaThreadSize
+project setup.thread_view
+project dashboard.area_delete_btn click
+thread_import.initTable
+cross_project_sharing.enterProject
+project setup.project_wondering
+project setup.createViewInKF
+project setup.thread_view
+project setup.thread_project
+project dashboard.callAjaxfunc
+thread.search autocomplete
+project modify.add_project_grade
+project setup.create_a_public_wondering_area
+thread.jotUpdate
+project setup.project_view_add
+project setup.getCommunityObject
+cross_project_sharing.initUser
+project setup.project_wondering
+project dashboard.getSuperTalkJOTBySuperTalkId
+project dashboard.addWonderingAreaProject
+thread.websocket_broadcast
+thread.compile_list_sort_author click
+project setup.thread_project
+project dashboard.addThreadView
+project dashboard.initBuddyProject
+project setup.project_view_add
+project member.userremove click
+project dashboard.threadProject
+thread.init
+project dashboard.threadProject
+project setup.creat_a_public_thread
+project setup.thread_wondering
+thread.initJOT
+thread.compileAll
+thread.showCompiledJotSummary
+project member.initProjectGroup
+project dashboard.showAreaInfo
+thread.initUser
+project setup.creat_a_public_thread
+project dashboard.threadProject
+project dashboard.callAjaxfunc
+project dashboard.update
+thread.jotEdit
+project modify.add_project_grade
+project dashboard.area_edit_btn click
+project dashboard.update
+activity_rader.getThread
+project setup.creat_a_public_thread
+project setup.thread_project
+thread.sendMsg
+thread_import.initUser
+project modify.updateBuddyProject
+project setup.project_wondering
+project proposal.init
+thread.prepare
+project dashboard.initSingleSuperTalk
+project dashboard.showAreaInfo
+thread.initUser
+project setup.project_view_add
+thread.initUser
+project modify.add_project_grade
+thread.get_community_info
+thread_import.note_add_keywords
+thread.close btn click
+thread.saveJot
+project dashboard.get_community_info
+project setup.getCommunityObject
+activity_rader.get_thread_note_highlight
+project setup.project_view_add
+project dashboard.color_label_finish  click
+project setup.project_view_add
+project dashboard.initSingleSuperTalk
+project setup.add_project_author
+project setup.thread_view
+activity_rader.get_thread_note
+activity_rader.initWRadar
+project setup.add_project_author
+project dashboard.wf_finish  click
+project dashboard.callAjaxfunc
+project dashboard.checkMyFocus
+project dashboard.showAreaInfo
+activity_rader.get_project_info
+project setup.project_wondering
+project dashboard.mapping_finish click
+project setup.createViewInKF
+thread.saveJot
+project setup.getCommunityObject
+project dashboard.thread_finish
+activity_rader.combineNoteThread
+project setup.thread_view
+project dashboard.thread_finish
+project setup.project_view_add
+project setup.project_view_add
+project dashboard.getSuperTalkJOTBySuperTalkId
+cross_project_sharing.initUser
+project dashboard.callAjaxfunc
+project dashboard.update
+thread.close btn click
+project dashboard.callAjaxfunc
+thread_import.btn-search click
+project setup.project_view_add
+project dashboard.addThreadView
+project setup.thread_view
+project setup.add_project_author
+project dashboard.getSuperTalkJOTBySuperTalkId
+project setup.getCommunityObject
+project setup.createViewInKF
+project setup.thread_view
+thread_import.btn-search click
+project dashboard.callAjaxfunc
+project dashboard.get_project_info
+@className.initViews
+thread_import.btn-add-thread click
+project dashboard.addMyFocus
+project setup.project_view_add
+project setup.project_view_add
+project setup.creat_a_public_thread
+thread.save-jot-btn
+thread.copyNote
+project setup.createViewInKF
+project setup.thread_project
+activity_rader.initWRadar
+project modify.updateBuddyProject
+project setup.project_view_add
+project dashboard.initSuperTalkList
+project setup.add_project_author
+thread_import.initUser
+project setup.getCommunityObject
+project dashboard.getAreaThreadSize
+project setup.project_wondering
+cross_project_sharing.getDataForVisualization
+thread.addViewNote
+project member.initProjectUser
+project dashboard.wf_finish  click
+project modify.create-submit click
+project setup.thread_project
+activity_rader.get_community_info
+project dashboard.wf_finish  click
+project dashboard.getSuperTalkJOTBySuperTalkId
+project setup.project_view_add
+activity_rader.get_project_info
+thread.removeNote
+project dashboard.get_project_info
+thread_import.btn-search click
+project setup.thread_view
+project proposal.superTalkStatus
+project setup.creat_a_public_thread
+thread_import.btn-search click
+thread.prepare
+project dashboard.callAjaxfunc
+project dashboard.showAreaInfo
+thread.websocket_broadcast
+thread.jotUpdate
+project setup.creat_a_public_thread
+project setup.project_view_add
+thread.timeorder click
+activity_rader.initRadar
+thread.initJOT
+thread.init
+thread.initJOT
+thread.jotUpdate
+project modify.add_project_author
+project setup.thread_view
+thread.saveJot
+project setup.project_view_add
+project modify.add_project_author
+project setup.project_view_add
+thread.init
+project setup.thread_project
+project setup.thread_view
+project member.initGroup
+project member.add_finish click
+project dashboard.getAreaThreadSize
+project setup.create_a_public_wondering_area
+project dashboard.initSingleSuperTalk
+project dashboard.callAjaxfunc
+project modify.add_project_grade
+project setup.creat_a_public_thread
+thread.search autocomplete
+thread.websocket_broadcast
+project setup.creat_a_public_thread
+project dashboard.generateColorWheel
+project setup.project_view_add
+project setup.project_view_add
+thread.saveJot
+project modify.create-submit click
+project dashboard.showAreaInfo
+project setup.createViewInKF
+project dashboard.getAreaThreadSize
+project setup.project_view_add
+project dashboard.callAjaxfunc
+project dashboard.callAjaxfunc
+project modify.add_project_grade
+project setup.project_wondering
+thread.openByIFrame
+project setup.thread_project
+project dashboard.initBuddyProject
+thread.init
+project setup.thread_project
+thread.save-jot-btn
+project setup.project_view_add
+project setup.project_view_add
+project dashboard.addThreadView
+project setup.createViewInKF
+project setup.creat_a_public_thread
+project setup.thread_project
+project dashboard.checkMyFocus
+thread.saveJot
+activity_rader.getThread
+project modify.add_project_grade
+thread.addThreadNote
+project setup.project_wondering
+project dashboard.getAreaThreadSize
+project dashboard.callAjaxfunc
+project dashboard.deleted_wonderingarea_ideathread_list click
+thread.show_buildon
+thread.createLink
+activity_rader.get_user_note
+project setup.createViewInKF
+thread.showCompiledJotSummary
+openedit.enter
+project setup.thread_wondering
+project modify.add_project_grade
+project modify.create-submit click
+project modify.create-submit click
+project dashboard.getAreaThreadSize
+thread_import.btn-search click
+project setup.project_view_add
+project dashboard.update
+project setup.project_view_add
+project dashboard.initSingleSuperTalk
+project setup.add_project_grade
+cross_project_sharing.initProject
+project setup.create_a_public_wondering_area
+thread.showKFWriteNote
+project setup.create_a_public_wondering_area
+project setup.project_wondering
+project dashboard.getAreaThreadSize
+project dashboard.update
+openedit.enter
+project dashboard.getAreaThreadSize
+thread.compile_list_sort_Title click
+thread_import.btn-search click
+project setup.project_view_add
+project dashboard.initSuperTalkList
+project dashboard.checkMyFocus
+project setup.thread_wondering
+project setup.creat_a_public_thread
+thread.checkHighlight
+project dashboard.threadProject
+project dashboard.initSingleSuperTalk
+project setup.project_view_add
+thread_import.btn-search click
+thread.sendMsg
+project setup.thread_view
+thread.websocket_broadcast
+thread_import.initProjects
+project setup.project_view_add
+project dashboard.callAjaxfunc
+project dashboard.getAreaThreadSize
+project dashboard.getSuperTalkJOTBySuperTalkId
+thread.jotUpdate
+project setup.project_view_add
+project dashboard.area_edit_btn click
+project dashboard.callAjaxfunc
+project dashboard.addWonderingAreaProject
+thread.sendMsg
+project setup.thread_view
+project setup.thread_view
+project dashboard.getAreaThreadSize
+project setup.project_view_add
+project modify.create-submit click
+activity_rader.initWRadar
+project modify.initInput
+project dashboard.initBuddyProject
+project dashboard.addWonderingAreaProject
+project proposal.initSuperTalk
+project setup.add_project_author
+project setup.creat_a_public_thread
+project modify.initFromYear
+thread_import.btn-search click
+project setup.creat_a_public_thread
+project dashboard.getSuperTalkJOTBySuperTalkId
+project dashboard.addThreadView
+thread.addThreadNote
+project setup.getCommunityObject
+thread.jotUpdate
+project dashboard.wf_finish  click
+thread.initUser
+project dashboard.wf_finish  click
+project setup.creat_a_public_thread
+project setup.project_view_add
+project dashboard.addMyFocus
+project dashboard.getAreaThreadSize
+project setup.thread_view
+project setup.creat_a_public_thread
+project setup.project_wondering
+activity_rader.get_thread_note_highlight
+project setup.project_view_add
+project dashboard.getAreaThreadSize
+thread.initJOT
+thread.websocket
+project setup.add_project_author
+project dashboard.initWondering_area_in_Add_thread
+project modify.updateBuddyProject
+project dashboard.getAreaThreadSize
+project dashboard.getAreaThreadSize
+project member.add_finish click
+project setup.creat_a_public_thread
+thread.jotUpdate
+project setup.thread_project
+project dashboard.getAreaThreadSize
+project dashboard.callAjaxfunc
+thread.copyNote
+project dashboard.add_wf_click
+project setup.creat_a_public_thread
+project modify.add_project_curriculum
+project setup.initGrades
+project setup.createViewInKF
+project setup.add_project_author
+project setup.createViewInKF
+project setup.creat_a_public_thread
+project member.add_finish click
+project setup.getCommunityObject
+project dashboard.initBuddyProject
+project setup.createProjectInITM3
+thread.websocket_broadcast
+project setup.thread_wondering
+project dashboard.addWonderingAreaProject
+thread.compileJot
+project dashboard.threadProject
+project setup.thread_wondering
+project setup.project_view_add
+project dashboard.getAreaThreadSize
+project setup.creat_a_public_thread
+project dashboard.getAreaThreadSize
+project dashboard.initBuddyProject
+project dashboard.callAjaxfunc
+project setup.create_a_public_wondering_area
+project setup.createViewInKF
+project setup.creat_a_public_thread
+thread.initUser
+project setup.thread_view
+project setup.project_view_add
+thread_import.btn-add-thread click
+project setup.add_project_author
+project dashboard.get_project_info
+thread_import.initUser
+project setup.creat_a_public_thread
+project setup.thread_project
+project setup.thread_view
+activity_rader.initRadar
+thread.noteRead
+project dashboard.update
+thread.showCompiledJotSummary
+project setup.project_view_add
+project setup.add_project_author
+thread.save-jot-btn
+activity_rader.initWRadar
+project dashboard.initBuddyProject
+thread.init
+project setup.thread_wondering
+activity_rader.get_thread_note_highlight
+project setup.thread_view
+project setup.thread_wondering
+project setup.project_view_add
+thread.close btn click
+thread_import.initTable
+project dashboard.callAjaxfunc
+project dashboard.initSuperTalkList
+project setup.project_wondering
+project dashboard.threadProject
+project setup.project_view_add
+thread.init
+project dashboard.area_edit_btn click
+thread.jotUpdate
+project setup.thread_view
+project dashboard.callAjaxfunc
+thread.show_buildon
+thread.init
+thread.initUser
+project setup.createViewInKF
+project setup.thread_wondering
+project dashboard.initSuperTalkList
+cross_project_sharing.initUser
+project dashboard.getAreaThreadSize
+project dashboard.btn_add_reminder click
+project setup.add_project_author
+project setup.creat_a_public_thread
+thread.show_note_write
+thread_import.initUser
+project setup.createViewInKF
+thread.initJOT
+project setup.project_view_add
+cross_project_sharing.getDataForVisualization
+project dashboard.getAreaThreadSize
+project dashboard.addMyFocus
+thread_import.btn-add-thread click
+project dashboard.checkMyFocus
+thread.jotUpdate
+thread_import.getThreadNote
+project dashboard.callAjaxfunc
+@className.dashboard.page.Init()
+project dashboard.initWondering_area
+thread.websocket_broadcast
+project setup.createViewInKF
+project modify.create-submit click
+@className.dashboard.MyRegistered()
+project setup.createViewInKF
+project modify.add_project_curriculum
+thread.websocket_broadcast
+cross_project_sharing.init
+project setup.createViewInKF
+thread.prepare
+project setup.creat_a_public_thread
+project dashboard.callAjaxfunc
+project modify.add_project_curriculum
+project dashboard.callAjaxfunc
+project modify.add_project_grade
+thread.initJOT
+project setup.thread_view
+project modify.initFromMonth
+thread.save-jot-btn
+thread.save-jot-btn
+thread_import.initTable
+project modify.create-submit click
+cross_project_sharing.initProject
+project setup.createViewInKF
+thread_import.initProjects
+project setup.project_view_add
+project setup.add_project_author
+project dashboard.callAjaxfunc
+project dashboard.get_project_info
+project setup.thread_view
+project dashboard.addThreadView
+project dashboard.getSuperTalkJOTBySuperTalkId
+project dashboard.deleted_wonderingarea_ideathread_list click
+project setup.createViewInKF
+project modify.create-submit click
+activity_rader.getJOTByProjectId
+project dashboard.callAjaxfunc
+project setup.getCommunityObject
+project setup.thread_wondering
+project dashboard.addThreadView
+project modify.add_project_grade
+project modify.create-submit click
+project setup.create_a_public_wondering_area
+project setup.creat_a_public_thread
+project dashboard.thread_finish
+project setup.project_wondering
+project setup.thread_project
+project setup.project_view_add
+project setup.project_view_add
+project setup.thread_project
+project dashboard.callAjaxfunc
+thread.initUser
+project modify.add_project_grade
+thread.get_community_info
+thread_import.note_add_keywords
+project modify.initArea
+project setup.create_a_public_wondering_area
+cross_project_sharing.drawVisualization
+thread.initJOT
+project dashboard.getAreaThreadSize
+project setup.thread_project
+thread.initJOT
+project setup.add_project_author
+project setup.thread_view
+project setup.project_view_add
+project setup.creat_a_public_thread
+thread.showHistory
+project dashboard.getAreaThreadSize
+openedit.initPage
+project dashboard.getAreaThreadSize
+project modify.create-submit click
+project setup.getCommunityObject
+project dashboard.wf_finish  click
+project dashboard.get_community_info
+project modify.add_project_author
+project setup.thread_wondering
+thread.websocket_broadcast
+thread.jotUpdate
+project setup.create_a_public_wondering_area
+project setup.add_project_curriculum
+project dashboard.callAjaxfunc
+project modify.initFromMonth
+project setup.creat_a_public_thread
+thread.websocket_broadcast
+thread.showKFWriteNote
+thread.addThreadView
+project setup.thread_project
+project setup.createViewInKF
+project modify.add_project_grade
+project setup.add_project_grade
+project setup.thread_view
+@className.dashboard.MyRegistered()
+thread.checkHighlight
+project modify.initUsers
+thread_import.getThreadNote
+project setup.createViewInKF
+project setup.thread_view
+project dashboard.wf_finish  click
+thread.saveJot
+project dashboard.wondering_area_list click
+project modify.create-submit click
+project modify.updateBuddyProject
+project setup.project_view_add
+thread.initUser
+project dashboard.update
+project setup.project_view_add
+project setup.thread_view
+project dashboard.callAjaxfunc
+thread.prepare
+project dashboard.callAjaxfunc
+project dashboard.checkMyFocus
+project dashboard.getAreaThreadSize
+project dashboard.callAjaxfunc
+activity_rader.get_user_note
+project setup.project_view_add
+project dashboard.getAreaThreadSize
+project dashboard.initSingleSuperTalk
+@className.select_views
+project setup.createViewInKF
+project setup.creat_a_public_thread
+project modify.add_project_author
+project setup.creat_a_public_thread
+project dashboard.color_label_finish  click
+project dashboard.callAjaxfunc
+project setup.project_view_add
+activity_rader.initRadar
+project modify.add_project_grade
+project setup.thread_view
+project setup.project_view_add
+cross_project_sharing.initProject
+project dashboard.callAjaxfunc
+project setup.creat_a_public_thread
+project dashboard.getAreaThreadSize
+thread.checkHighlight
+project dashboard.getAreaThreadSize
+project setup.add_project_author
+project dashboard.deleted_wonderingarea_ideathread_list click
+project setup.project_view_add
+project modify.updateBuddyProject
+project setup.project_view_add
+project dashboard.initBuddyProject
+project dashboard.initTeacherReminder
+thread.createScaffoldStartTag
+project dashboard.addThreadView
+thread.sendMsg
+project setup.project_view_add
+activity_rader.get_wondering_area_thread
+thread_import.initTable
+project dashboard.thread_finish
+@className.dashboard.get_Communities()
+project setup.thread_view
+project dashboard.getAreaThreadSize
+thread.initUser
+thread.showHistory
+project setup.thread_view
+project dashboard.wf_finish  click
+project setup.project_view_add
+project dashboard.getAreaThreadSize
+thread.showCompiledJotSummary
+project setup.project_view_add
+project setup.creat_a_public_thread
+project setup.creat_a_public_thread
+thread.init
+project dashboard.initBuddyProject
+project member.initProjectUser
+project setup.project_view_add
+project modify.add_project_curriculum
+project dashboard.getAreaThreadSize
+project setup.project_view_add
+project setup.createViewInKF
+activity_rader.get_project_info
+project setup.getCommunityObject
+project setup.project_view_add
+project setup.creat_a_public_thread
+project modify.updateBuddyProject
+project dashboard.callAjaxfunc
+thread.noteRead
+project setup.thread_wondering
+thread.understand_text_area_button click
+project dashboard.initWondering_area_in_Add_thread
+project dashboard.initSuperTalkList
+project setup.thread_view
+project setup.project_view_add
+project dashboard.getAreaThreadSize
+project modify.updateBuddyProject
+project dashboard.getAreaThreadSize
+project setup.add_project_author
+project dashboard.initWondering_area_in_Add_thread
+project dashboard.addWonderingAreaProject
+project setup.getCommunityObject
+project setup.thread_project
+project dashboard.color_label_finish  click
+project dashboard.threadProject
+project setup.creat_a_public_thread
+project setup.project_view_add
+project modify.add_project_grade
+activity_rader.get_user_note
+thread.websocket_broadcast
+project setup.project_view_add
+project dashboard.area_edit_btn click
+project setup.project_view_add
+project dashboard.getSuperTalkJOTBySuperTalkId
+thread_import.initViews
+project modify.updateBuddyProject
+project dashboard.checkMyFocus
+project setup.create_a_public_wondering_area
+activity_rader.initWRadar
+project dashboard.checkMyFocus
+thread.prepareNotes
+project modify.add_project_curriculum
+activity_rader.intiActivityRadar
+project dashboard.showAreaInfo
+project setup.project_view_add
+project modify.add_project_grade
+cross_project_sharing.init
+@className.dashboard.get_Communities()
+project setup.project_view_add
+project dashboard.wf_finish  click
+thread.websocket
+project setup.project_view_add
+cross_project_sharing.get_community_info
+project dashboard.callAjaxfunc
+project dashboard.showAreaInfo
+project dashboard.update
+thread.websocket
+project setup.thread_wondering
+thread.init
+project setup.creat_a_public_thread
+project setup.project_view_add
+project setup.add_project_author
+project dashboard.wf_finish  click
+project modify.updateBuddyProject
+project dashboard.threadProject
+thread.get_community_info
+activity_rader.get_thread_note_highlight
+thread.insertJotSummaryTag
+project modify.add_project_author
+project modify.add_project_grade
+project dashboard.getAreaThreadSize
+activity_rader.get_community_info
+project setup.thread_wondering
+project setup.project_view_add
+project setup.getCommunityObject
+project setup.project_wondering
+thread.nav change
+project modify.add_project_grade
+project dashboard.get_community_info
+project dashboard.area_edit_btn click
+project setup.thread_view
+project modify.initUsers
+thread.initJOT
+@className.dashboard.get_Communities()
+project setup.project_wondering
+project dashboard.getAreaThreadSize
+project dashboard.getAreaThreadSize
+project dashboard.showAreaInfo
+project setup.project_view_add
+project setup.getCommunityObject
+project setup.project_view_add
+project member.initProject
+project modify.add_project_author
+project modify.create-submit click
+project setup.thread_project
+project setup.getCommunityObject
+project dashboard.get_project_info
+project setup.project_view_add
+cross_project_sharing.init
+thread_import.initTable
+project setup.create_a_public_wondering_area
+project modify.create-submit click
+project setup.project_view_add
+thread.createLink
+activity_rader.intiActivityRadar
+project setup.project_view_add
+project setup.create_a_public_wondering_area
+project setup.add_project_author
+project modify.initFromMonth
+thread.save-jot-btn
+project setup.thread_wondering
+thread.show_note_write
+project dashboard.area_delete_btn click
+project setup.thread_view
+project setup.project_view_add
+project modify.updateBuddyProject
+project dashboard.thread_finish
+thread.websocket_broadcast
+thread.jotUpdate
+project setup.thread_project
+project setup.thread_view
+project dashboard.callAjaxfunc
+thread.initNavBar
+project dashboard.getAreaThreadSize
+project dashboard.getAreaThreadSize
+thread.compile_list_sort_author click
+project setup.createViewInKF
+project dashboard.color_label_finish  click
+project setup.project_view_add
+project dashboard.wf_finish  click
+project setup.project_view_add
+project setup.thread_view
+project dashboard.addThreadView
+project dashboard.wf_finish  click
+project dashboard.addThreadView
+thread.websocket_broadcast
+project setup.add_project_curriculum
+thread.save-jot-btn
+project setup.creat_a_public_thread
+project setup.project_view_add
+thread_import.btn-search click
+project setup.project_view_add
+project setup.project_wondering
+project modify.updateBuddyProject
+project dashboard.get_project_info
+project setup.project_view_add
+cross_project_sharing.init
+thread.savePlainText clicik
+project dashboard.getAreaThreadSize
+thread.showHistory
+project setup.project_view_add
+project setup.project_view_add
+project dashboard.update
+project dashboard.getAreaThreadSize
+project dashboard.btn_add_reminder click
+project modify.updateBuddyProject
+project setup.createViewInKF
+project setup.project_view_add
+project setup.project_view_add
+project modify.initFromYear
+project setup.createViewInKF
+project dashboard.update
+project setup.project_view_add
+thread.websocket
+project dashboard.getAreaThreadSize
+project dashboard.getAreaThreadSize
+project modify.add_project_grade
+project dashboard.thread_finish
+project dashboard.getAreaThreadSize
+project modify.create-submit click
+project dashboard.showAreaInfo
+thread.search-btn
+thread_import.initUser
+project setup.creat_a_public_thread
+project modify.create-submit click
+project modify.create-submit click
+project modify.add_project_curriculum
+project setup.createViewInKF
+thread.prepare
+project dashboard.wf_finish  click
+project setup.project_view_add
+project setup.project_view_add
+@className.dashboard.get_Communities()
+thread.showCompiledJotSummary
+project dashboard.getSuperTalkJOTBySuperTalkId
+project modify.updateBuddyProject
+project modify.add_project_author
+@className.dashboard.enter()
+project dashboard.thread_finish
+project dashboard.callAjaxfunc
+project dashboard.enterActivity
+project dashboard.threadProject
+project dashboard.btn_add_reminder click
+activity_rader.combineNoteThread
+project dashboard.wf_finish  click
+project modify.add_project_grade
+project setup.project_view_add
+project setup.creat_a_public_thread
+thread.checkHighlight
+activity_rader.combineNoteThread
+project setup.project_view_add
+thread.sendMsg
+project dashboard.showAreaInfo
+project dashboard.getAreaThreadSize
+project dashboard.callAjaxfunc
+activity_rader.initRadar
+project setup.initArea
+activity_rader.getThread
+project proposal.initInvitation
+activity_rader.get_user_note
+thread.get_project_info
+activity_rader.get_user_note
+thread.init
+project dashboard.addThreadView
+project dashboard.threadProject
+project setup.project_view_add
+thread.get_community_info
+project dashboard.area_edit_btn click
+project setup.project_view_add
+project setup.project_wondering
+project setup.project_view_add
+thread.get_project_info
+thread.showKFWriteNote
+thread.jotEdit
+project dashboard.btn_add_reminder click
+project dashboard.getAreaThreadSize
+project modify.add_project_grade
+project dashboard.getAreaThreadSize
+project setup.create_a_public_wondering_area
+project setup.add_project_author
+project dashboard.getSuperTalkJOTBySuperTalkId
+cross_project_sharing.drawVisualization
+project setup.create_a_public_wondering_area
+project dashboard.initBuddyProject
+project setup.thread_wondering
+thread.websocket
+project dashboard.addThreadView
+project setup.initGrades
+project setup.project_view_add
+project dashboard.getAreaThreadSize
+project setup.project_view_add
+thread_import.btn-search click
+activity_rader.getThread
+project setup.creat_a_public_thread
+thread_import.btn-add-thread click
+project dashboard.callAjaxfunc
+thread.showCompiledJotSummary
+project dashboard.getAreaThreadSize
+thread.websocket_broadcast
+project dashboard.getAreaThreadSize
+thread.save-jot-btn
+project setup.project_view_add
+project setup.add_project_author
+project dashboard.checkMyFocus
+project setup.add_project_author
+project dashboard.getAreaThreadSize
+project dashboard.callAjaxfunc
+project dashboard.checkMyFocus
+project setup.project_view_add
+project setup.project_wondering
+project dashboard.callAjaxfunc
+thread.buildon forword
+project setup.createViewInKF
+project setup.thread_view
+project setup.project_wondering
+project modify.add_project_grade
+project dashboard.getAreaThreadSize
+project setup.add_project_author
+project setup.creat_a_public_thread
+project proposal.initInvitation
+project proposal.superTalkStatus
+project setup.project_view_add
+project setup.add_project_author
+@className.select_views
+project dashboard.getAreaThreadSize
+project setup.project_view_add
+thread.noteRead
+project setup.project_view_add
+project modify.add_project_author
+project setup.createViewInKF
+thread.websocket
+thread.websocket_broadcast
+cross_project_sharing.drawVisualization
+project setup.thread_project
+project proposal.initWonderingArea
+thread.showCompiledJotSummary
+thread.filterOutThreadHasSelectedNote
+project dashboard.threadProject
+project setup.project_wondering
+project modify.updateBuddyProject
+thread.saveJot
+thread.insertJotSummaryTag
+@className.initTable
+project dashboard.wf_finish  click
+thread.jotUpdate
+thread.save-jot-btn
+thread.websocket_broadcast
+thread.showHistory
+activity_rader.get_buildon
+project setup.project_view_add
+project setup.thread_wondering
+project dashboard.addMyFocus
+project dashboard.getAreaThreadSize
+project member.initGroup
+project setup.project_view_add
+project setup.project_view_add
+thread.jotUpdate
+project setup.creat_a_public_thread
+project setup.thread_view
+project setup.project_view_add
+project setup.project_wondering
+project dashboard.get_project_info
+project setup.thread_project
+project modify.add_project_curriculum
+project dashboard.getSuperTalkJOTBySuperTalkId
+thread.showHistory
+project dashboard.callAjaxfunc
+thread.showCompiledJotSummary
+thread.save-jot-btn
+project modify.add_project_grade
+thread_import.btn-search click
+thread.show_note_write
+project dashboard.area_edit_btn click
+project member.initProjectUser
+thread.storeHighlightedContent
+thread_import.btn-search click
+project dashboard.get_project_info
+project setup.thread_view
+project modify.add_project_grade
+project setup.createViewInKF
+project setup.thread_project
+project modify.create-submit click
+thread.compile_list_sort_Title click
+thread.websocket_broadcast
+thread.initUser
+thread.save-jot-btn
+thread.noteRead
+thread.sendMsg
+project modify.updateBuddyProject
+thread.saveJot
+project setup.createViewInKF
+project setup.project_view_add
+project modify.updateBuddyProject
+project setup.creat_a_public_thread
+project setup.add_project_author
+project setup.add_project_curriculum
+project setup.project_view_add
+project member.initGroup
+thread.save-jot-btn
+project dashboard.thread_finish
+project dashboard.thread_finish
+project dashboard.update
+project modify.create-submit click
+project dashboard.area_edit_btn click
+project setup.project_wondering
+project dashboard.thread_finish
+project dashboard.callAjaxfunc
+project setup.thread_view
+project dashboard.getSuperTalkJOTBySuperTalkId
+project setup.project_view_add
+project dashboard.showAreaInfo
+thread_import.btn-search click
+project dashboard.add_wf_click
+thread.jotUpdate
+project setup.add_project_author
+thread.showHistory
+project member.initProject
+project dashboard.update
+project setup.project_view_add
+thread_import.initUser
+thread.saveJot
+project modify.initGrades
+project modify.add_project_curriculum
+thread.saveJot
+project dashboard.update
+thread.sendMsg
+project dashboard.callAjaxfunc
+project setup.thread_project
+project setup.thread_view
+project setup.thread_view
+project setup.project_view_add
+project modify.add_project_grade
+project dashboard.callAjaxfunc
+thread.jotUpdate
+project setup.create_a_public_wondering_area
+thread.websocket_broadcast
+openedit.initPage
+project modify.create-submit click
+project modify.updateBuddyProject
+project setup.project_view_add
+project setup.project_view_add
+thread.showCompiledJotSummary
+thread.save-jot-btn
+project setup.project_view_add
+thread.showCompiledJotSummary
+project setup.thread_project
+activity_rader.get_thread_note_highlight
+project setup.project_view_add
+project dashboard.update
+thread_import.initTable
+project dashboard.update
+@className.dashboard.enter()
+project setup.getCommunityObject
+project setup.project_wondering
+project modify.add_project_author
+thread.jotUpdate
+project setup.thread_view
+activity_rader.get_thread_note
+project modify.create-submit click
+project setup.project_view_add
+@className.select_views
+project dashboard.initSuperTalkList
+project setup.thread_project
+project setup.thread_view
+project dashboard.callAjaxfunc
+project dashboard.callAjaxfunc
+project setup.create_a_public_wondering_area
+project setup.thread_view
+thread.initJOT
+thread.compileAll
+project modify.add_project_grade
+project dashboard.getAreaThreadSize
+project dashboard.initWondering_area_in_Add_thread
+activity_rader.getThread
+project modify.add_project_curriculum
+project setup.thread_project
+project dashboard.initTeacherReminder
+project setup.project_view_add
+project dashboard.idea_thread_list click
+thread.saveJot
+project dashboard.getAreaThreadSize
+project setup.create_a_public_wondering_area
+@className.init activity_rader
+project dashboard.initTeacherReminder
+project dashboard.getAreaThreadSize
+project setup.project_view_add
+project proposal.initWonderingArea
+project dashboard.getAreaThreadSize
+project dashboard.getAreaThreadSize
+thread.filterOutThreadHasSelectedNote
+project setup.project_view_add
+project modify.updateBuddyProject
+project modify.add_project_author
+project dashboard.getAreaThreadSize
+project setup.project_wondering
+thread.filterOutThreadHasSelectedNote
+activity_rader.get_buildon
+thread_import.btn-search click
+thread_import.note_add_keywords
+project setup.project_view_add
+project dashboard.addWonderingAreaProject
+thread.checkHighlight
+thread.sendMsg
+thread.initViews
+project setup.thread_view
+project setup.creat_a_public_thread
+project dashboard.thread_finish
+project member.initProjectGroup
+project proposal.initSuperTalk
+project setup.create_a_public_wondering_area
+project dashboard.deleted_wonderingarea_ideathread_list click
+project dashboard.showAreaInfo
+project proposal.initInvitation
+project modify.add_project_grade
+project setup.creat_a_public_thread
+project dashboard.getAreaThreadSize
+project setup.creat_a_public_thread
+project setup.thread_wondering
+cross_project_sharing.get_community_info
+thread.init
+project setup.thread_project
+project dashboard.getSuperTalkJOTBySuperTalkId
+project setup.thread_wondering
+project setup.creat_a_public_thread
+project setup.project_view_add
+thread.init
+project setup.project_view_add
+project dashboard.initSuperTalkList
+thread_import.initUser
+project dashboard.callAjaxfunc
+project dashboard.threadProject
+project modify.create-submit click
+project setup.project_view_add
+project modify.create-submit click
+project dashboard.area_edit_btn click
+project setup.project_view_add
+thread_import.btn-search click
+project setup.create_a_public_wondering_area
+thread.initUser
+project setup.creat_a_public_thread
+project dashboard.color_label_finish  click
+project setup.project_view_add
+project setup.add_project_author
+activity_rader.get_community_info
+project dashboard.initSingleSuperTalk
+project dashboard.callAjaxfunc
+project setup.thread_wondering
+project modify.add_project_grade
+thread_import.btn-search click
+project dashboard.addWonderingAreaProject
+@className.dashboard.get_Communities()
+project setup.project_view_add
+project modify.add_project_grade
+project dashboard.showAreaInfo
+project setup.project_view_add
+project dashboard.area_edit_btn click
+thread_import.btn-search click
+project dashboard.wf_finish  click
+project setup.add_project_author
+thread_import.btn-search click
+thread.compile_list_sort_author click
+project setup.project_view_add
